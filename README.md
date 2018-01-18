@@ -1,4 +1,4 @@
-#Circle CI Build image
+# Circle CI Build image
 
 This repository is for building of a Docker image which can be used
 to perform builds in Circle CI
